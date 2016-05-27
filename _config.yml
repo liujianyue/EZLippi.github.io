@@ -21,10 +21,10 @@ kramdown:
   use_coderay: false
 
 JB :
-  IMAGE_PATH : http://coolshell.info/images
+  IMAGE_PATH : http://liujianyue.github.io/images
 
 # presonal config
-domain: http://coolshell.info
+domain: http://liujianyue.github.io
 title: Leo-土豆超人
 description: The harder the more fortunate！
 author: Leo.Liujianyue
